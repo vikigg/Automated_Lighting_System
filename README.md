@@ -8,4 +8,6 @@ Color Choose - Console game; C++; CodeBlocks;
 
 VGames - Website; C#, HTML, CSS; Visual Studio Code, ASP.NET, MSSQL; 
 
-nUnit
+SportsClub - Console application; C#; MSSQL, nUnit, Visual Studio
+
+Automated Lightning System
