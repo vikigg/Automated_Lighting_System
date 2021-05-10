@@ -1,13 +1,13 @@
 # Project - Details
 
-Lit Flash Cards - Android app; Java; Android Studio;
+Lit Flash Cards - Android app
 
-Sudoku Solver - Windows software; C#; Visual Studio, Windows forms;
+Sudoku Solver - Windows software
 
-Color Choose - Console game; C++; CodeBlocks;
+Color Choose - Console game
 
-VGames - Website; C#, HTML, CSS; Visual Studio Code, ASP.NET, MSSQL; 
+VGames - Web-based application
 
-SportsClub - Console application; C#; MSSQL, nUnit, Visual Studio
+SportsClub - Console application
 
-Automated Lightning System
+Automated Lightning System - Embedded system
