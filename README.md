@@ -10,4 +10,4 @@ VGames - Web-based application
 
 SportsClub - Console application
 
-Automated Lightning System - Embedded system
+Automated Lighting System - Embedded system
